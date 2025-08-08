@@ -1,3 +1,9 @@
+```markdown
+⚠️ **Aviso importante**:  
+- Solo para redes propias o con permiso  
+- Usa VirtualBox/Kali si eres principiante  
+- ¡Nunca hackees redes ajenas!  
+```
 
 ```markdown
 # 📡 𝕎𝕚𝔽𝕚𝕂𝕚𝕝𝕝𝕖𝕣 (𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕧𝕖 𝕋𝕠𝕠𝕝)  
